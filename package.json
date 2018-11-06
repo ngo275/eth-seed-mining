@@ -1,0 +1,12 @@
+{
+  "name": "key-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ngo275",
+  "license": "MIT",
+  "dependencies": {
+    "bip39": "^2.5.0",
+    "ethereumjs-wallet": "^0.6.0",
+    "etherscan-api": "^8.0.4"
+  }
+}
